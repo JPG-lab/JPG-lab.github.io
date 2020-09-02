@@ -19,6 +19,10 @@ Currently ongoing COVID-19 prject include:
 - Working with NHS North East London Commissioning Alliance, we use statistical analysis to untangle the key cohorts at risk of hospitalisation, intensive care admission and deaths associated with COVID-19. The written up work is in the process of submission with a preprint available here.
 - Working with collaborators at Queen Mary University London and accross different institutions in Austria, I am leading statistical analysis to evaluate the effect of primary care testing for COVID-19. Preprint of the work can be found [here](https://www.medrxiv.org/content/10.1101/2020.07.13.20152439v1)
 
+## COVID-19 other publications
+
+- I have written a number of commissioned pieces for [The Conversation](https://theconversation.com/profiles/jasmina-panovska-griffiths-1013696/articles), an editorial for [BMC Public Health](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-020-08671-z) and opinion piece at the BMJ open discussing [asymptmatic COVID-19 infections](https://blogs.bmj.com/bmj/2020/05/04/how-much-is-covid-19-spreading-via-asymptomatic-versus-symptomatic-infections/) and how we balance protecting lives and livelihoods as lockdown is [relaxed](https://blogs.bmj.com/bmj/2020/06/01/balancing-lives-and-livelihoods-in-post-covid-19-lockdown/).
+
 ## 2-day workshop on Modelling and COVID-19
 
 - Together with collaborators from University of Edinburgh and University of Warwick, I am organising a [Virtual forum for knowledge-exchange in mathematical sciences](vfkems.md) to discuss how modelling has helped COVID-19 and what the modelling community needs to do next.
