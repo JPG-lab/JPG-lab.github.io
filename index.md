@@ -25,13 +25,13 @@ Currently ongoing COVID-19 prject include:
 
 ## Other infectious diseases research work
 
-- Modelling influenza transmission. Two recent methodological papers one publsihed at [Method X](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7139115/), one at [Vaccine](https://www.sciencedirect.com/science/article/pii/S0264410X20308057?via%3Dihub) and one at [JTB](https://pubmed.ncbi.nlm.nih.gov/31059716/)
+- Modelling influenza transmission. Two recent methodological papers one publsihed at [Methods X](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7139115/), one at [Vaccine](https://www.sciencedirect.com/science/article/pii/S0264410X20308057?via%3Dihub) and one at [JTB](https://pubmed.ncbi.nlm.nih.gov/31059716/)
 - Modelling RSV transmission and vaccination. Preprint of the modelling work by my PhD student and co-lead by me can be found [here](https://www.medrxiv.org/content/10.1101/19009977v4)
 - Modelling HIV accross different settings. Work co-lead by myself and a collaborator at Queen Mary University London applied statistical analysis to evaluate the effect of post-trial nurse-led enhanced primary care testing for HIV. The work was published in [EClinical Medicine](https://www.thelancet.com/pdfs/journals/eclinm/PIIS2589-5370(19)30234-2.pdf).
 - Modelling childhood vaccine-preventable diseases. Recent paper can be found [here](https://pubmed.ncbi.nlm.nih.gov/30055970/)
 
 ## Data analytics and machine learning research 
 
-- Statistical analysis to evaluate primary care interventions. A paper lead by myself was recently published at[BMC Health Service Research](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-020-05397-x)
+- Statistical analysis to evaluate primary care interventions. A paper lead by myself was recently published at [BMC Health Service Research](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-020-05397-x)
 - Application of different machine learning and AI tool to stratify brain gliomas by grade and mutation status. A paper co-lead by myself was recently published at [BMC Medical Informatics and Decision making](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-01163-5)
 
