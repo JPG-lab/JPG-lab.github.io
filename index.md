@@ -21,7 +21,7 @@ Currently ongoing COVID-19 prject include:
 
 ## COVID-19 other publications
 
-- I have written a number of commissioned pieces for [The Conversation](https://theconversation.com/profiles/jasmina-panovska-griffiths-1013696/articles), an editorial for [BMC Public Health](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-020-08671-z) and two opinion pieces at the BMJ open discussing [asymptmatic COVID-19 infections](https://blogs.bmj.com/bmj/2020/05/04/how-much-is-covid-19-spreading-via-asymptomatic-versus-symptomatic-infections/) and how we balance protecting lives and livelihoods as lockdown is [relaxed](https://blogs.bmj.com/bmj/2020/06/01/balancing-lives-and-livelihoods-in-post-covid-19-lockdown/).
+- I have written a number of commissioned pieces for [The Conversation](https://theconversation.com/profiles/jasmina-panovska-griffiths-1013696/articles), an editorial for [BMC Public Health](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-020-08671-z) and two opinion pieces at the BMJ open discussing [asymptmatic COVID-19 infections](https://blogs.bmj.com/bmj/2020/05/04/how-much-is-covid-19-spreading-via-asymptomatic-versus-symptomatic-infections/) and how we [balance protecting lives and livelihoods](https://blogs.bmj.com/bmj/2020/06/01/balancing-lives-and-livelihoods-in-post-covid-19-lockdown/) as lockdown is relaxed.
 
 ## 2-day workshop on Modelling and COVID-19
 
