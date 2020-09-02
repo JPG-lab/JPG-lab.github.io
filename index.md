@@ -35,6 +35,3 @@ Currently ongoing COVID-19 prject include:
 - Statistical analysis to evaluate primary care interventions
 - Application of different machine learning and AI tool to stratify brain gliomas by grade and mutation status
 
-
-
-You can use the [editor on GitHub](https://github.com/JPG-lab/jpglab.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
