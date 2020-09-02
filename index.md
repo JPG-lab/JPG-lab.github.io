@@ -21,11 +21,11 @@ Currently ongoing COVID-19 prject include:
 
 ## 2-day workshop on Modelling and COVID-19
 
-- We are also organising a [Virtual forum for knowledge-exchange in mathematical sciences](vfkems.md)
+- Together with collaborators from University of Edinburgh and University of Warwick, I am organising a [Virtual forum for knowledge-exchange in mathematical sciences](vfkems.md) to discuss how modelling has helped COVID-19 and what the modelling community needs to do next.
 
 ## Other infectious diseases research work
 
-- Modelling influenza transmission. Two recent methodological papers one publsihed at [Methods X](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7139115/), one at [Vaccine](https://www.sciencedirect.com/science/article/pii/S0264410X20308057?via%3Dihub) and one at [JTB](https://pubmed.ncbi.nlm.nih.gov/31059716/)
+- Modelling influenza transmission. Recently three methodological papers were published at [Methods X](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7139115/), [Vaccine](https://www.sciencedirect.com/science/article/pii/S0264410X20308057?via%3Dihub) and [JTB](https://pubmed.ncbi.nlm.nih.gov/31059716/)
 - Modelling RSV transmission and vaccination. Preprint of the modelling work by my PhD student and co-lead by me can be found [here](https://www.medrxiv.org/content/10.1101/19009977v4)
 - Modelling HIV accross different settings. Work co-lead by myself and a collaborator at Queen Mary University London applied statistical analysis to evaluate the effect of post-trial nurse-led enhanced primary care testing for HIV. The work was published in [EClinical Medicine](https://www.thelancet.com/pdfs/journals/eclinm/PIIS2589-5370(19)30234-2.pdf).
 - Modelling childhood vaccine-preventable diseases. Recent paper can be found [here](https://pubmed.ncbi.nlm.nih.gov/30055970/)
