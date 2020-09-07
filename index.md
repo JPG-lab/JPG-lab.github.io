@@ -10,7 +10,7 @@ I have over eight years experience of modelling infectious diseases and I am cur
 
 Since the onset of the pandemic, I have actively been leading a portfolio of COVID-19 modelling work, collaborating accross instititions and countries.
 
-Currently ongoing COVID-19 prject include:
+My current COVID-19 projects include:
 
 - Together with collaborators at the [Institute for Disease Modelling](https://idmod.org/tools) we developed the [Covasim](https://institutefordiseasemodeling.github.io/covasim-docs/covasim.interventions.html) model as an individual-based model for COVID-19 transmission in the population. Methodological description of the model can be found in this [medRxiv preprint](https://www.medrxiv.org/content/10.1101/2020.05.10.20097469v1) with application to the UK recently published at [the Lancet Child & Adolescent Health](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30250-9/fulltext). Applications of Covasim to other settings are ongoing. 
 - We have extended the classic SEIR model to incorporate probailistic framework to in details model contact tracing. The new model SEIR-TTI allows different test-trace-isolate strategies to be explored. The methodological paper is currently under review at PLoS Comp Biol with a preprint availble here [PTTI Model](https://covidtti.com/) 
@@ -38,4 +38,11 @@ Currently ongoing COVID-19 prject include:
 
 - Statistical analysis to evaluate primary care interventions. A paper lead by myself was recently published at [BMC Health Service Research](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-020-05397-x)
 - Application of different machine learning and AI tool to stratify brain gliomas by grade and mutation status. A paper co-lead by myself was recently published at [BMC Medical Informatics and Decision making](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-01163-5)
+
+## Key collaborating groups
+- IDM COVID-19 reponse team
+- PTTI modelling group 
+- Optima Consortium
+
+
 
