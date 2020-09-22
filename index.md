@@ -4,7 +4,7 @@ I am a Senior Research Fellow and Lecturer in Mathematical modelling at Universi
 
 My research uses mathematics and statistics to answer existing and emerging health questions. 
  
-I have over eight years experience of modelling infectious diseases and I am currently actively leading modelling different COVID-19 transmission projects across different settings to inform decision making. I work closely with researchers at Public Health England, and advise the UK Department of Health and Social Care and the World Bank working across different projects.
+I have over eight years experience of modelling infectious diseases and I am currently actively leading modelling different COVID-19 transmission projects across different settings to inform decision making. I work closely with researchers at Public Health England, and advise the UK Department of Health and Social Care, the World Bank, the Gates Foundation and FIND working across different projects.
 
 ## COVID-19 research work
 
@@ -12,18 +12,20 @@ Since the onset of the pandemic, I have actively been leading a portfolio of COV
 
 My current COVID-19 projects include:
 
-- Covasim model: Together with collaborators at the [Institute for Disease Modelling](https://idmod.org/tools) we developed the [Covasim](https://institutefordiseasemodeling.github.io/covasim-docs/covasim.interventions.html) model as an individual-based model for COVID-19 transmission in the population. Methodological description of the model can be found in this [medRxiv preprint](https://www.medrxiv.org/content/10.1101/2020.05.10.20097469v1). The model was applied to the UK and recently published at [the Lancet Child & Adolescent Health](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30250-9/fulltext) and widely quoted in the [media](https://www.ucl.ac.uk/news/headlines/2020/aug/testing-and-tracing-must-be-scaled-prevent-second-covid-19-wave). Applications of Covasim to other settings are ongoing. 
-- SEIR_TTI mode: We have extended the classic SEIR model to incorporate probailistic framework to in details model contact tracing. The new model SEIR-TTI allows different test-trace-isolate strategies to be explored. The methodological paper is currently under review at PLoS Comp Biol with a preprint availble here [PTTI Model](https://covidtti.com/). 
-- Epi-Economic modelling: The SEIR-TTI model was combined with economic analysis and a user-friendly [interface](https://ptti.styx.org) to explore patterns of infections and economic costs of different NPIs to reduce coronavirus transmission. 
-- Rule-Based-Model (RBM): Lead by collaborators at Univerity of Edinburgh, we also develoed a rule-based modelling framework that generalises reaction-based models with reagents with internal state that may be bound together to form complexes, as in chemistry. The methodological paper is under review at Journal of Infectious Disease Modelling with a [preprint here](https://arxiv.org/abs/2006.12077)
-- Social distancing and COVID-19 model: Working with NHS North East London Commissioning Alliance, we developed an SEIR model to explore the level of social distancing necessary to safely reopen socialty following the nationwide lockdown. The written up work is under review with a preprint available here. 
-- Determining the cohorts at risk of COVID-19: Working with NHS North East London Commissioning Alliance, we use statistical analysis to untangle the key cohorts at risk of hospitalisation, intensive care admission and deaths associated with COVID-19. The written up work is in the process of submission with a preprint available here.
-- The impact of RT-PCR vs anti-body tests for COVID-19:Working with collaborators at Queen Mary University London and accross different institutions in Austria, I am leading statistical analysis to evaluate the effect of primary care testing for COVID-19. Preprint of the work can be found [here](https://www.medrxiv.org/content/10.1101/2020.07.13.20152439v1)
+- Covasim model: Together with collaborators at the [Institute for Disease Modelling](https://idmod.org/tools) we developed the [Covasim](https://institutefordiseasemodeling.github.io/covasim-docs/covasim.interventions.html) model as an individual-based model for COVID-19 transmission in the population. Methodological description of the model can be found in this [medRxiv preprint](https://www.medrxiv.org/content/10.1101/2020.05.10.20097469v1). The model was applied to the UK to explore difefrent startegies to reopen schools with the work recently published at [the Lancet Child & Adolescent Health](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30250-9/fulltext) and widely quoted in the [media](https://www.ucl.ac.uk/news/headlines/2020/aug/testing-and-tracing-must-be-scaled-prevent-second-covid-19-wave). An extension of this work that evaluates the impact of combining face coverings and different test-trace-isolate (TTI) strategies has recently been submitted for publication, with preprint available soon. Applications of Covasim across a number of other settings are also ongoing. 
+- SEIR_TTI model: Working with collaborators, we extended the classic SEIR model to incorporate probabilistic framework to in details model contact tracing. The new SEIR-TTI model allows different TTI strategies to be explored. The methodological paper is currently under review at PLoS Comp Biol with a preprint available here [PTTI Model](https://covidtti.com/). 
+- Epi-Economic modelling: The SEIR-TTI model was combined with economic analysis and a user-friendly [interface](https://ptti.styx.org) to explore patterns of infections and economic costs of different NPIs to reduce coronavirus transmission. Preprint of the ongoing work is availble [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3627273). 
+- Rule-Based-Model (RBM): Lead by collaborators at Univerity of Edinburgh, we also develoed a rule-based modelling framework that generalises reaction-based models with reagents with internal state that may be bound together to form complexes, as in chemistry. The methodological paper is under review at Journal of Infectious Disease Modelling with a [preprint here](https://arxiv.org/abs/2006.12077). The model is currently being applied across a number of Low- and Middle-Income Countries (LMICs) in collaboration with researchers from Imperial College London.
+- Social distancing and COVID-19 model: Working with NHS North East London Commissioning Alliance, we developed an SEIR model to explore the level of social distancing necessary to safely reopen socialty following the nationwide lockdown. The written up work is under review with a preprint available [here](https://www.researchsquare.com/article/rs-68209/v1). 
+- Determining the cohorts at risk of COVID-19: Working with NHS North East London Commissioning Alliance, we use statistical analysis to untangle the key cohorts at risk of hospitalisation, intensive care admission and deaths associated with COVID-19. The written up work is in the process of submission with a preprint available soon.
+- The impact of RT-PCR vs anti-body tests for COVID-19:Working with collaborators at Queen Mary University London and accross different institutions in Austria, I am leading statistical analysis to evaluate the effect of primary care testing for COVID-19. Preprint of the work can be found [here](https://www.medrxiv.org/content/10.1101/2020.07.13.20152439v1).
+- Exploring the susceptibility to and transmissibility of COVID-19 accross different age groups: I am involved in work led by Prof Russell Viner that aims to untangle the differences in susceptibility to and transmissibility of COVID-19 in children compared to adults. A preprint of the work recently accepted for publication at JAMA Paediatrics is available [here](https://www.medrxiv.org/content/10.1101/2020.05.20.20108126v2).
 
 ## COVID-19 other publications
 
-- I have written a number of commissioned pieces for [The Conversation](https://theconversation.com/profiles/jasmina-panovska-griffiths-1013696/articles), an editorial for [BMC Public Health](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-020-08671-z) 
-- I have had two commissined opinion pieces at the BMJ open discussing [asymptmatic COVID-19 infections](https://blogs.bmj.com/bmj/2020/05/04/how-much-is-covid-19-spreading-via-asymptomatic-versus-symptomatic-infections/) and how we [balance protecting lives and livelihoods](https://blogs.bmj.com/bmj/2020/06/01/balancing-lives-and-livelihoods-in-post-covid-19-lockdown/) as lockdown is relaxed.
+- I have written a number of commissioned pieces for [The Conversation](https://theconversation.com/profiles/jasmina-panovska-griffiths-1013696/articles) and an editorial for [BMC Public Health](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-020-08671-z).
+- I have had two commissined opinion pieces at the BMJ discussing [asymptmatic COVID-19 infections](https://blogs.bmj.com/bmj/2020/05/04/how-much-is-covid-19-spreading-via-asymptomatic-versus-symptomatic-infections/) and how we [balance protecting lives and livelihoods](https://blogs.bmj.com/bmj/2020/06/01/balancing-lives-and-livelihoods-in-post-covid-19-lockdown/) as lockdown is relaxed.
+- I have also been commisioned to write a chapter for the Data Science: Theory and Applications, Volume 44 in the Handbook of Statistics series, that highlights new advances in the field, with [this new volume](https://www.elsevier.com/books/data-science-theory-and-applications/rao/978-0-323-85200-5)presenting interesting chapters on a variety of interesting topics. My chapter will look into current state of modelling the COVID-19 pandemic and give examples if models that I and my collaborators have developed. 
 
 ## 2-day workshop on Modelling and COVID-19
 
@@ -43,9 +45,10 @@ My current COVID-19 projects include:
 - Application of different machine learning and AI tool to stratify brain gliomas by grade and mutation status. A paper co-lead by myself was recently published at [BMC Medical Informatics and Decision making](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-01163-5)
 
 ## Key collaborating groups
-- IDM COVID-19 reponse team
-- PTTI modelling group 
-- Optima Consortium
+- [IDM COVID-19 reponse team](https://idmod.org/tools#coronavirus-infohub)
+- [PTTI modelling group](https://github.com/ptti/ptti)
+- [Optima Consortium](http://optimamodel.com)
+- NHS North East London Commissioning Alliance 
 
 
 
