@@ -4,7 +4,7 @@ I am a Senior Research Fellow and Lecturer in Mathematical modelling at Universi
 
 My research uses mathematics and statistics to answer existing and emerging health questions. 
  
-I have over eight years experience of modelling infectious diseases and I am currently actively leading modelling different COVID-19 transmission projects across different settings to inform decision making. I work closely with researchers at Public Health England, and advise the UK Department of Health and Social Care, the World Bank, the Gates Foundation and FIND working across different projects.
+I have over eight years experience of modelling infectious diseases. I am currently actively leading various projects on modelling COVID-19 transmission across different settings to inform decision making. I work closely with researchers at Public Health England, and advise the UK Department of Health and Social Care, the World Bank, the Gates Foundation and FIND working across different projects.
 
 ## COVID-19 research work
 
@@ -37,7 +37,7 @@ My current COVID-19 projects include:
 - Modelling HIV in UK. Work co-lead by myself and a collaborator at Queen Mary University London applied statistical analysis to evaluate the effect of post-trial nurse-led enhanced primary care testing for HIV. The longitudinal analysis was published in [EClinical Medicine](https://www.thelancet.com/pdfs/journals/eclinm/PIIS2589-5370(19)30234-2.pdf). The cross-sectional analysis is currently being prepared for publication with a preprint available soon.
 - Modelling childhood vaccine-preventable diseases. I recently led work funded by the Department of Health and Social Care, and working with Prof Martin Utley within UCL, to develop a novel formal method to evaluate the impact of vaccination changes to one aspect of the programme across an entire vaccine programme. The study was publlished in [Vaccine](https://pubmed.ncbi.nlm.nih.gov/30055970/)
 - Optima Model. Since 2015 I am part of the [Optima Consortium for Decision Science](http://optimamodel.com) working accross different models to determine how to optimally allocate resources to minimise burden accross a number of diseases and settings. Recent publication from the group on the HIV model can be found [here](https://pubmed.ncbi.nlm.nih.gov/29652100/), with papers showcasing HIV [TB](http://optimamodel.com/tb/) and [HIPtool](http://hiptool.org)  curently in submission. 
-- Modelling HIV across West Africa.I lead a group across UCL, LSHTM and Coventry University that aims to determine the key determinants of risk accross different West Africa settings. We recently developed a [novel mathematical model](https://www.medrxiv.org/content/10.1101/19008839v1.full.pdf) that explores the role of different populations cohorts in gearing up the HIV epidemic which is currently in submission for publication.   
+- Modelling HIV across West Africa. I lead a group across UCL, LSHTM and Coventry University that aims to determine the key determinants of risk accross different West Africa settings. We recently developed a [novel mathematical model](https://www.medrxiv.org/content/10.1101/19008839v1.full.pdf) that explores the role of different populations cohorts in gearing up the HIV epidemic which is currently in submission for publication.   
 
 ## Data analytics and machine learning research 
 
