@@ -29,7 +29,7 @@ My current COVID-19 projects include:
 
 ## 2-day workshop on Modelling and COVID-19
 
-- Together with collaborators from University of Edinburgh and University of Warwick, and supported by the International Centre for Mathematical Sciences (ICMS), I organising a [Workshop on mathematical modelling and COVID-19](https://www.icms.org.uk/VMMCovid.php) to discuss how modelling has and continues to inform policy decision making around the UK epidemic.
+- Together with collaborators from University of Edinburgh and University of Warwick, and supported by the International Centre for Mathematical Sciences (ICMS), I'm organising a [Workshop on mathematical modelling and COVID-19](https://www.icms.org.uk/VMMCovid.php) to discuss how modelling has and continues to inform policy decision making around the UK epidemic.
 
 ## Other infectious diseases research work
 
