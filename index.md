@@ -33,12 +33,11 @@ My current COVID-19 projects include:
 
 ## Other infectious diseases research work
 
-- Modelling influenza transmission. Recently together with collaborators at Department of Mathematics at UCL, PHE and the Department of Health and Social care in the UK we published three papers comparing the impact of dfferent vaccine policies against pandemic influenza. The methodology is described in the [Methods X](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7139115/) paper, the application to the UK context in [Vaccine](https://www.sciencedirect.com/science/article/pii/S0264410X20308057?via%3Dihub) and the net-benefit of these vaccine policies on the last four pandemics in [JTB](https://pubmed.ncbi.nlm.nih.gov/31059716/). A user-friendly interface we have developed for the purpose of this work can be found [here](https://vaccinparamspaceanalysis.shinyapps.io/shinyPlots/ ).
-- Modelling RSV transmission and vaccination. I was a primary sueprvisor to David Hodgson who obtained his PhD in Mathematics from the Department of Mathematics, UCL in August 2020. The modelling work has recently been accepted for publication at BMC Medicine and preprint is availble [here](https://www.medrxiv.org/content/10.1101/19009977v4). We are in the process of building a user-friendly interface for this model.
+- Modelling influenza transmission. Recently, together with collaborators at the Department of Mathematics at UCL, PHE and the Department of Health and Social Care in the UK, we published three papers comparing the impact of dfferent vaccine policies against pandemic influenza. The methodology is described in the [Methods X](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7139115/) paper, the application to the UK context in [Vaccine](https://www.sciencedirect.com/science/article/pii/S0264410X20308057?via%3Dihub) and the net-benefit of these vaccine policies on the last four pandemics in the [JTB](https://pubmed.ncbi.nlm.nih.gov/31059716/). A user-friendly interface we have developed for the purpose of this work can be found [here](https://vaccinparamspaceanalysis.shinyapps.io/shinyPlots/).
 - Modelling HIV in UK. Work co-lead by myself and a collaborator at Queen Mary University London applied statistical analysis to evaluate the effect of post-trial nurse-led enhanced primary care testing for HIV. The longitudinal analysis was published in [EClinical Medicine](https://www.thelancet.com/pdfs/journals/eclinm/PIIS2589-5370(19)30234-2.pdf). The cross-sectional analysis is currently being prepared for publication with a preprint available soon.
 - Modelling childhood vaccine-preventable diseases. I recently led work funded by the Department of Health and Social Care, and working with Prof Martin Utley within UCL, to develop a novel formal method to evaluate the impact of vaccination changes to one aspect of the programme across an entire vaccine programme. The study was publlished in [Vaccine](https://pubmed.ncbi.nlm.nih.gov/30055970/)
 - Optima Model. Since 2015 I am part of the [Optima Consortium for Decision Science](http://optimamodel.com) working accross different models to determine how to optimally allocate resources to minimise burden accross a number of diseases and settings. Recent publication from the group on the HIV model can be found [here](https://pubmed.ncbi.nlm.nih.gov/29652100/), with papers showcasing HIV [TB](http://optimamodel.com/tb/) and [HIPtool](http://hiptool.org)  curently in submission. 
-- I lead a group across UCL, LSHTM and Coventry University that aims to determine the key determinants of risk accross different West Africa settings. We recently developed a [novel mathematical model](https://www.medrxiv.org/content/10.1101/19008839v1.full.pdf) that explores the role of different populations cohorts in gearing up the HIV epidemic which is currently in submission for publication.   
+- Modelling HIV across West Africa.I lead a group across UCL, LSHTM and Coventry University that aims to determine the key determinants of risk accross different West Africa settings. We recently developed a [novel mathematical model](https://www.medrxiv.org/content/10.1101/19008839v1.full.pdf) that explores the role of different populations cohorts in gearing up the HIV epidemic which is currently in submission for publication.   
 
 ## Data analytics and machine learning research 
 
@@ -50,6 +49,10 @@ My current COVID-19 projects include:
 - [PTTI modelling group](https://github.com/ptti/ptti)
 - [Optima Consortium](http://optimamodel.com)
 - NHS North East London Commissioning Alliance 
+
+## PhD Students
+- Modelling RSV transmission and vaccination. I have been a primary supervisor to David Hodgson who obtained his PhD in Mathematics from the Department of Mathematics, UCL in August 2020. The modelling work has recently been accepted for publication at BMC Medicine and preprint is availble [here](https://www.medrxiv.org/content/10.1101/19009977v4). We are in the process of building a user-friendly interface for this model.
+- [Freya Rhodes](https://iris.ucl.ac.uk/iris/browse/profile?upi=FRHOD50)
 
 
 
