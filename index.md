@@ -49,15 +49,16 @@ My current COVID-19 projects include:
 - Application of different machine learning and AI tool to stratify brain gliomas by grade and mutation status. A paper co-lead by myself was recently published at [BMC Medical Informatics and Decision making](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-01163-5)
 
 ## Key collaborating groups
-- [IDM COVID-19 reponse team](https://idmod.org/tools#coronavirus-infohub)
+- [Christophe Fraser's Pathogen Dynamics Group, The Big Data Institute, University of Oxford](https://www.bdi.ox.ac.uk/Team/christophe-fraser)
 - [IDM COVID-19 reponse team](https://idmod.org/tools#coronavirus-infohub)
 - [PTTI modelling group](https://github.com/ptti/ptti)
 - [Optima Consortium](http://optimamodel.com)
 - NHS North East London Commissioning Alliance 
 
 ## PhD Students
-- Modelling RSV transmission and vaccination. I have been a primary supervisor to David Hodgson who obtained his PhD in Mathematics from the Department of Mathematics, UCL in August 2020. The modelling work was publsihed at BMC Medicine and available [here](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01802-8). Follow up work is looking to a build a user-friendly interface for this model and ongoing work is looking at modelling RSV under the current pandemic.
-- [Freya Rhodes](https://iris.ucl.ac.uk/iris/browse/profile?upi=FRHOD50)
+- Primary supervisor to [David Hodgson](https://www.lshtm.ac.uk/aboutus/people/hodgson.david)[Modelling RSV transmission and vaccination](https://discovery.ucl.ac.uk/id/eprint/10108087/1/thesis_final.pdf), UCL Department of Mathematics, August 2020. This work has been published at [Influenza Other Respir Viruses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6928035/) and [BMC Medicine](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01802-8). Follow up work is looking to a build a user-friendly interface for this model and ongoing work is looking at modelling RSV under the current COVID-19 pandemic.
+- Secondary supervisor to [Amirah Alsaedi]() [The role of Arterial Spin Labelling (ASL) in classification of primary aduld gliomas](https://discovery.ucl.ac.uk/id/eprint/10133252/), UCL Institute of Neurology, August 2021. Iinitial work from this thesis has been publsihed at [Oncotarget](https://pubmed.ncbi.nlm.nih.gov/30899427/) with follow-on three papers currently in process of submission. 
+- Tertiary supervisor to[Freya Rhodes](https://iris.ucl.ac.uk/iris/browse/profile?upi=FRHOD50). This work has been pubslihed at [BMJ open](https://bmjopen.bmj.com/content/11/6/e047786), [J Gastroenterol hepatol](https://onlinelibrary.wiley.com/doi/10.1111/jgh.15335) and [BMC Gastroenterology](https://bmcgastroenterol.biomedcentral.com/articles/10.1186/s12876-021-01728-2).
 
 
 
