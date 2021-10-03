@@ -69,7 +69,7 @@ My current COVID-19 projects include:
 
 
 ## MSc Students
-- To date I have supervised 47 MSc projects across LSHTM and UCL. Over the period 2015-2021, I supervised over 30 MSC students across the Department of Mathematics, Institute of Epidemiology & Healthcare and the Institute for Global Health. 
+- To date I have supervised 47 MSc projects across LSHTM and UCL. Over the period 2015-2021, I supervised over 30 MSC students across the Department of Mathematics, Institute of Epidemiology & Healthcare and the Institute for Global Health.
 
 
 
