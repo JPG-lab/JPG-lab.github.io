@@ -1,8 +1,10 @@
 ## Introduction
 
-I am a Senior Researcher in Mathematical Modelling within Christophe Fraser's Pathogen Dynamics Group at The Big Data Institute at University of Oxford and a Lecturer in Probability and Statistics at The Queen's College, Oxford University. I am also affiliated with the Wolfson Centre of Mathematical Biology at Oxford University. 
+I am a Senior Research Fellow in Modelling Infectious Diseases within [Christophe Fraser's Pathogen Dynamics Group](https://www.bdi.ox.ac.uk/Team/christophe-fraser) at The Big Data Institute at University of Oxford and a [Lecturer in Probability and Statistics at The Queen's College, Oxford University](https://www.queens.ox.ac.uk/people/dr-jasmina-panovska-griffiths). I am also affiliated with [The Wolfson Centre of Mathematical Biology at Oxford University](https://www.maths.ox.ac.uk/groups/mathematical-biology).
 
-I also have an honorary Academic Researcher post at Public Health England (PHE) and I am a Fellow of the Royal Statistical Society.
+I am also an honorary Associate Professor at the Institute for Global Health with University College London, where I lead the [Modelling for Decision Science Module](https://www.ucl.ac.uk/global-health/study/masters/health-economics-modules/modelling-for-decision-science). 
+
+I am a Fellow of [The Institute of Mathematics and its Applications](https://www.ima.org.uk), the Royal Statistical Society[Royal Statistical Society](https://www.rss.org.uk) and [The Royal Society for Public Health](https://www.rsph.org.uk). I am actively involved in promoting mathematics and statistics as well as other STEM subjects across schools in the UK. 
 
 My research uses mathematics and statistics to answer existing and emerging health questions. 
  
