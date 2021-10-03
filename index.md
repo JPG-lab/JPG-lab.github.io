@@ -35,7 +35,7 @@ My current COVID-19 projects include:
 
 ## Workshops on modelling and COVID-19
 
-- Together with collaborators from University of Edinburgh and University of Warwick, and supported by the International Centre for Mathematical Sciences (ICMS), I'm organising a [Workshop on mathematical modelling and COVID-19](https://www.icms.org.uk/VMMCovid.php) to discuss how modelling has and continues to inform policy decision making around the UK epidemic.
+- Together with collaborators from University of Edinburgh and University of Warwick, and supported by the International Centre for Mathematical Sciences (ICMS), in 2020, I organised a [Workshop on mathematical modelling and COVID-19](https://www.icms.org.uk/VMMCovid.php) to discuss how modelling informs policy decision making around the UK epidemic.
 - During 2020 I was actively participating in [Infectious Dynamics of Pandemics](https://www.newton.ac.uk/event/idp/) workship organised by the Issac Newton Institute. I was part of a working group comprising colleagues across different Universities in the UK and across the World, that have written a number or articles of lessons learned from the pandemic, one published at the [Stat Methods Med Res](https://pubmed.ncbi.nlm.nih.gov/34569883/) and a number in submission for a special issue of Epidemics.
 
 ## Other infectious diseases research work
