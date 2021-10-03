@@ -1,2 +1,2 @@
 # JPG-lab.github.io
-Jasmina Panovska-Griffiths' Website
+This is Jasmina Panovska-Griffiths' personal website
