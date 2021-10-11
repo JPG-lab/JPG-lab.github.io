@@ -1,5 +1,7 @@
 ## Jasmina Panovska-Griffiths
 
+## Background
+
 I am a Senior Research Fellow in Modelling Infectious Diseases within [Christophe Fraser's Pathogen Dynamics Group](https://www.bdi.ox.ac.uk/Team/christophe-fraser) at The Big Data Institute at University of Oxford and a [Lecturer in Probability and Statistics at The Queen's College, Oxford University](https://www.queens.ox.ac.uk/people/dr-jasmina-panovska-griffiths). I am also affiliated with [The Wolfson Centre of Mathematical Biology at Oxford University](https://www.maths.ox.ac.uk/groups/mathematical-biology).
 
 I am also an honorary Associate Professor at the Institute for Global Health at University College London, where I lead the [Modelling for Decision Science Module](https://www.ucl.ac.uk/global-health/study/masters/health-economics-modules/modelling-for-decision-science). 
